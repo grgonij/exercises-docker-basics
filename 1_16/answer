@@ -1,0 +1,3 @@
+https://exercises-docker-basics.onrender.com/
+
+I containerized a super simple Python web server and connected the GitHub repo to Render, built the image and it is running on the free tier!
